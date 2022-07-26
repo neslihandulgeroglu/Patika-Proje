@@ -1,4 +1,4 @@
-# Patika-Proje
+# Patika-Proje- www.patika.dev 
 Veri yapıları ve algoritmalar
 Proje1
 [22,27,16,2,18,6]
